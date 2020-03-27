@@ -19,6 +19,7 @@ h5,
 h6 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+	color: #29235c;
 }
 
 .lead {
@@ -33,6 +34,10 @@ h6 {
 
 #navbartext {
 	color: #ff0d22;
+}
+
+#navbartext1 {
+	color: #29235c;
 }
 
 .intro-header {
@@ -156,6 +161,8 @@ h6 {
         margin-bottom: 0;
     }
 }
+
+
 
 footer {
     padding: 50px 0;
