@@ -2,7 +2,7 @@
 layout: default
 img: excel.png
 category: Contribute
-title: Cette carte est interactive:<br>Elle évolue en permanence !
+title: Cette carte est interactive :<br>Elle évolue en permanence !
 description: |
 ---
 Nos équipes de bénévoles organisent la collecte des VOS informations à l'aide d'un document partagé que nous retranscrivons ensuite sur cette carte après un travail de vérification. Envie de participer ?
