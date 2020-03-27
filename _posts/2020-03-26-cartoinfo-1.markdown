@@ -1,0 +1,10 @@
+---
+layout: default
+img: howto.png
+category: Contribute
+title:  "Cette carte recense :"
+
+---
+  - Les marchés alimentaires maintenus par dérogation,
+  - Les épiceries locavores/vrac,
+  - Les producteurs locaux qui se sont adaptés : commandes en ligne, points relais, vente directe, livraison etc..

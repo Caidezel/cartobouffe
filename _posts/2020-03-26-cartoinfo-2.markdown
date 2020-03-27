@@ -1,0 +1,8 @@
+---
+layout: default
+img: warning.png
+category: Contribute
+title: "Quelques règles :"
+---
+  - Les commerces en ligne sans structure physique ont été "stockés" dans le parc de la Tête d'or...
+  - Vous pouvez consulter la liste des données en cliquant sur le bouton à gauche représentant des ronds empilés, puis sur "Visualiser les données": la colonne qui apparaît à droite vous présente les points sur la carte classés par catégories.
