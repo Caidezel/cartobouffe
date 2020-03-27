@@ -1,0 +1,10 @@
+---
+layout: default
+img: excel.png
+category: Contribute
+title: Cette carte est interactive:<br>Elle évolue en permanence !
+description: |
+---
+Nos équipes de bénévoles organisent la collecte des VOS informations à l'aide d'un document partagé que nous retranscrivons ensuite sur cette carte après un travail de vérification. Envie de participer ?
+  
+  👉[Direction le document partagé](https://docs.google.com/spreadsheets/d/1rRa5hMKcSzNOmuF4Narnhc1cgBvN4e-ckOAWVPAxSpA/edit?fbclid=IwAR3hLK-Jh3_E9L6ILvMGjmzGVbfEV5bouY_qKp9YJN_1OIkmLGK8vERp8lI#gid=256588403)
