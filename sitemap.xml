@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: null
 title: "Sitemap du site {{ site.url }}"
 description: "Sitemap du site {{ site.url}}"
 ---
