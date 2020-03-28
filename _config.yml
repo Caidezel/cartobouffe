@@ -23,10 +23,13 @@ permalink: pretty
 #   3rd Party Settings    #
 # ----------------------- #
 
+twitter_sharetext: Retrouve la carte @BelleBouffe et @ZeroDechetLyon pour mange local à Lyon pendant COVID-19
+
 twitter_bellebouffe: BelleBouffe
 facebook_bellebouffe: Bellebouffe.lyon
 site_bellebouffe: bellebouffe.com
 
+twitter_zerodechetlyon : ZeroDechetLyon
 facebook_zerodechetlyon: ZeroDechetLyon
 site_zerodechetlyon: zerodechetlyon.org
 email_zerodechetlyon: plaidoyer@zerodechetlyon.org
