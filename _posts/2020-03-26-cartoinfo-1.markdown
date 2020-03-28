@@ -8,4 +8,6 @@ title:  "Cette carte recense :"
 ---
   - Les marchés alimentaires maintenus par dérogation,
   - Les épiceries locavores/vrac,
-  - Les producteurs locaux qui se sont adaptés : commandes en ligne, points relais, vente directe, livraison etc..
+  - Les producteurs locaux qui se sont adaptés : commandes en ligne, points relais, vente directe, livraison etc...
+
+👉 <a href="http://umap.openstreetmap.fr/fr/map/points-de-vente-produits-locaux_435582?fbclid=IwAR0IxRWS3g7PHz3TPa4M_wq-kZToMQbaUlhHLBVEuhz7w7XIAaHl_0ptQz4#11/45.7831/4.8779" rel="nofollow norefferer" target="_blank" title="lien vers la carte directement sur openstreetmap" alt="lien vers la carte directement sur openstreetmap">Ouvrir la carte directement sur OpenStreetMap</a>

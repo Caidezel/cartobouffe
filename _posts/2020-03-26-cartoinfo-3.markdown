@@ -7,4 +7,4 @@ title: Cette carte est interactive :<br>elle évolue en permanence !
 ---
 Nos équipes de bénévoles organisent la collecte des VOS informations à l'aide d'un document partagé que nous retranscrivons ensuite sur cette carte après un travail de vérification. Envie de participer ?
   
-👉 <a href="https://docs.google.com/spreadsheets/d/1rRa5hMKcSzNOmuF4Narnhc1cgBvN4e-ckOAWVPAxSpA/edit?fbclid=IwAR3hLK-Jh3_E9L6ILvMGjmzGVbfEV5bouY_qKp9YJN_1OIkmLGK8vERp8lI#gid=256588403" rel="nofollow norefferer" target="_blank" title="lien vers le excel partagé de la carte pour manger local" alt="lien vers le excel partagé de la carte pour manger local">direction le document partagé</a>
+👉 <a href="https://docs.google.com/spreadsheets/d/1rRa5hMKcSzNOmuF4Narnhc1cgBvN4e-ckOAWVPAxSpA/edit?fbclid=IwAR3hLK-Jh3_E9L6ILvMGjmzGVbfEV5bouY_qKp9YJN_1OIkmLGK8vERp8lI#gid=256588403" rel="nofollow norefferer" target="_blank" title="lien vers le excel partagé de la carte pour manger local" alt="lien vers le excel partagé de la carte pour manger local">Ouvrir le document partagé</a>
