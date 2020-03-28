@@ -3,19 +3,31 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{ site.description }}">
-    <meta name="author" content="{{ site.author }}">
-
+    <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}">
+    <meta name="author" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-	<meta name="description" content="{{ page.description }}">
+
+<!-- Canonical -->
+	<link rel="canonical" href="{{ page.url | prepend: site.url }}">
+
+<!-- Twitter Card Integration -->
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:card" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:site" content="@{{site.twitter_bellebouffe}}" />
+<meta name="twitter:card" content="summary">
 
 <!--OpenGraph Integration-->
+<meta property="og:locale" content="fr_FR">
 <meta content="{{ site.title }}" property="og:site_name">
-  <meta content="{{ site.title }}" property="og:title">
+  <meta content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" property="og:title">
   <meta content="website" property="og:type">
-  <meta content="{{ site.description }}" property="og:description">
+  <meta content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" property="og:description">
   <meta content="{{ site.url }}/img/og-pic.png" property="og:image">
 
+<!-- FavIcon Intetgration -->
 <link rel="apple-touch-icon" sizes="180x180" href="{{ "/img/fav/apple-touch-icon.png" | absolute_url }}">
 <link rel="icon" type="image/png" sizes="32x32" href="{{ "/img/fav/favicon-32x32.png" | absolute_url }}">
 <link rel="icon" type="image/png" sizes="16x16" href="{{ "/img/fav/favicon-16x16.png" | absolute_url }}">
@@ -42,7 +54,7 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-    
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-162016084-1"></script>
 <script>
@@ -52,6 +64,5 @@
 
   gtag('config', 'UA-162016084-1');
 </script>
-
 
 </head>

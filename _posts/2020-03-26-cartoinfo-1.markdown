@@ -1,6 +1,7 @@
 ---
 layout: default
 img: howto.png
+imgalt: "Illustration de BelleBouffe"
 category: Contribute
 title:  "Cette carte recense :"
 
