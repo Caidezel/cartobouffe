@@ -4,6 +4,7 @@ img: excel.png
 imgalt: "Capture d'écran du excel partagé"
 category: Contribute
 title: Cette carte est interactive :<br>elle évolue en permanence !
+ancre: contribuez
 ---
 Nos équipes de bénévoles organisent la collecte des VOS informations à l'aide d'un document partagé que nous retranscrivons ensuite sur cette carte après un travail de vérification. Envie de participer ?
   

@@ -4,7 +4,8 @@ img: producteurs.png
 imgalt: "En soutien à nos producteurs"
 category: Contribute
 title: Vous êtes producteurs, maraichers ... ?
+ancre: producteurs
 ---
 Vous souhaitez apparaitre sur la carte et avez besoin d'aide pour remplir vos informations ? Vous souhaitez corriger des informations concernant votre activité mais ne savez pas comment vous y prendre ?
 
-Écrivez-nous à 👉 <a href="mailto:{{ site.email_zerodechet }}" rel="nofollow norefferer" target="_blank" title="Écrire à BelleBouffe">Zéro Déchet Lyon</a> ou <a href="mailto:{{ site.email }}" rel="nofollow norefferer" target="_blank" title="Écrire à Zéro Déchet Lyon">BelleBouffe</a>
+Écrivez-nous à 👉 <a href="mailto:{{ site.email_zerodechetlyon }}" rel="nofollow norefferer" target="_blank" title="Écrire à Zéro Déchet Lyon">Zéro Déchet Lyon</a> ou <a href="mailto:{{ site.email }}" rel="nofollow norefferer" target="_blank" title="Écrire à BelleBouffe">BelleBouffe</a>
