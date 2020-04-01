@@ -8,4 +8,7 @@ ancre: producteurs
 ---
 Vous souhaitez apparaitre sur la carte et avez besoin d'aide pour remplir vos informations ? Vous souhaitez corriger des informations concernant votre activité mais ne savez pas comment vous y prendre ?
 
-Écrivez-nous à 👉 <a href="mailto:{{ site.email_zerodechetlyon }}" rel="nofollow norefferer" target="_blank" title="Écrire à Zéro Déchet Lyon">Zéro Déchet Lyon</a> ou <a href="mailto:{{ site.email }}" rel="nofollow norefferer" target="_blank" title="Écrire à BelleBouffe">BelleBouffe</a>
+Écrivez-nous :  
+
+<a href="mailto:{{ site.email_zerodechetlyon }}" rel="nofollow norefferer" target="_blank" title="Écrire à Zéro Déchet Lyon" class="btn btn-default btn-lg">👉 Zéro Déchet Lyon</a>  
+<a href="mailto:{{ site.email }}" rel="nofollow norefferer" target="_blank" title="Écrire à BelleBouffe" class="btn btn-default btn-lg">👉 BelleBouffe</a>

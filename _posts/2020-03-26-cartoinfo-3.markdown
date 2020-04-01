@@ -1,11 +1,10 @@
 ---
 layout: default
-img: excel.png
-imgalt: "Capture d'écran du excel partagé"
 category: Contribute
-title: Cette carte est interactive :<br>elle évolue en permanence !
-ancre: contribuez
+title: Cette carte est interactive :<br>vous pouvez contribuer !
+button: true
 ---
-Nos équipes de bénévoles organisent la collecte des VOS informations à l'aide d'un document partagé que nous retranscrivons ensuite sur cette carte après un travail de vérification. Envie de participer ?
-  
-👉 <a href="https://docs.google.com/spreadsheets/d/1rRa5hMKcSzNOmuF4Narnhc1cgBvN4e-ckOAWVPAxSpA/edit?fbclid=IwAR3hLK-Jh3_E9L6ILvMGjmzGVbfEV5bouY_qKp9YJN_1OIkmLGK8vERp8lI#gid=256588403" rel="nofollow norefferer" target="_blank" title="lien vers le excel partagé de la carte pour manger local" alt="lien vers le excel partagé de la carte pour manger local">Ouvrir le document partagé</a>
+Aidez-nous à faire vivre la carte !
+Que vous soyez producteurs ou consommateurs, vous pouvez faire apparaitre un service gràce aux formulaires ci-contre.
+
+Envie de participer ? Remplissez le bon formulaire, nos bénévoles feront apparaitre le service reférencé sur la carte après un travail de relecture !
