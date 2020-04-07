@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cette carte recense :
+title: "Cette carte recense :"
 ancre: annuaire
 img: howto.png
 imgalt : Illustration de BelleBouffe
