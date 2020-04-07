@@ -7,8 +7,9 @@ baseurl: ""
 title: Manger local à Lyon durant COVID
 email: bonjour@bellebouffe.com
 author: BelleBouffe / Zéro Déchet Lyon
-description: "Pour être solidaire avec celles et ceux qui nous nourrissent et permettre à qui veut d'accéder à des informations pour bien se nourrir, bien manger et surtout manger local, même en temps de confinement : BelleBouffe et Zéro Déchet Lyon vous proposent cette carte pour identifier les producteurs, maraichers, épiceries autour de Lyon et ses alentours. L'occasion de manger local durant le confinement en respectant les mesures sanitaires. BelleBouffe et Zéro Déchet Lyon vous invitent à respecter ces dernières pour cette période !"
+description: "Pour être solidaire avec celles et ceux qui nous nourrissent et permettre à qui veut d'accéder à des informations pour bien se nourrir et surtout manger local, même en temps de confinement : BelleBouffe et Zéro Déchet Lyon vous proposent cette carte pour identifier les producteurs, maraichers, épiceries autour de Lyon et ses alentours. L'occasion de manger local durant le confinement en respectant les mesures sanitaires. BelleBouffe et Zéro Déchet Lyon vous invitent à respecter ces dernières pour cette période !"
 credits: 'Credits: Landing Page est un thème Bootstrap open source et gratuit créé par <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
 
 
 # ----------------------- #
@@ -18,6 +19,9 @@ credits: 'Credits: Landing Page est un thème Bootstrap open source et gratuit c
 # Build settings
 markdown: kramdown
 permalink: pretty
+sass:
+  sass_dir: _sass
+  style: compressed
 
 # ----------------------- #
 #   3rd Party Settings    #

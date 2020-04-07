@@ -1,36 +1,34 @@
 <!-- Navigation -->
 <section id="home">
-    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-    <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header page-scroll">
-        	<a id="navbartext" class="navbar-brand page-scroll" href="#home"><img src="../img/fav/favicon-32x32.png" class="logo" alt="{{ site.title }}">{{ site.title }}</img></a>
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                        <span class="sr-only">Afficher la navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-            </button>
-        </div>
+    <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light">
+	<div class="container-fluid">
+			<a class="navbar-brand navbar-toggler justify-content-center" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls=" #navbarContent" aria-expanded="false" aria-label="Afficher la navigation">
+				<p>{{ site.title }} <i class="fas fa-chevron-down"></i></p>
+				</a>			
+			<a class="navbar-brand page-scroll d-none d-lg-block" href="#home">
+				<img src="../assets/img/fav/favicon-32x32.png" class="logo" alt="{{ site.title }}">{{ site.title }}</img>
+			</a>
+
+
         <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">  
-            	<li>
-                    <a id="navbartext1" class="page-scroll" href="#map">La carte</a>
-                </li>
-                <li>
-                    <a id="navbartext2" class="page-scroll" href="#consommateurs">Consommateurs</a>
-                </li>
-                <li>
-                    <a id="navbartext4" class="page-scroll" href="#producteurs">Producteurs</a>
-                </li>
-                <li>
-                    <a id="navbartext5" class="page-scroll" href="#contact"><i class="fas fa-comments"></i></a>
-                </li>
-            </ul>
-        </div>
+        <div class="collapse navbar-collapse justify-content-end" id="navbarContent">
+            <ul class="navbar-nav nav-pills">
+				<li class="nav-item">
+                    <a class="nav-link page-scroll" href="#map">La carte</a>
+				</li>
+				<li class="nav-item">
+                    <a class="nav-link page-scroll" href="#consommateurs">Consommateurs</a>
+				</li>
+				<li class="nav-item">
+                    <a class="nav-link page-scroll" href="#producteurs">Producteurs</a>
+				</li>
+				<li class="nav-item">
+                    <a class="nav-link page-scroll btn-default" href="#contact"><i class="fas fa-comments"></i></a>
+				</li>
+			</ul>
+			        </div>
+
         <!-- /.navbar-collapse -->
-    </div>
     <!-- /.container -->
 </nav>
 </section>

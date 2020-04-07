@@ -1,0 +1,66 @@
+<!-- Processing Section -->
+	{% for post in site.posts reversed %}
+  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    {% if thecycle == 'odd' %}
+<section id="{{ post.ancre}}">
+    <div class="content-section-a">
+        <div class="container">
+            <div class="row aligned-row">
+                <div class="col-lg-7 col-md-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">{{ post.title }}</h2>
+                    <div class="lead">
+					<!-- Start content -->
+					{{ post.content }}
+					<!-- End content -->
+					</div>
+                </div>
+                <div class="col-lg-5 col-md-6 my-auto">
+				{% if post.imgurl %}
+					<a href="{{ post.imgurl }}" title="{{ post.imgtitle }}" alt="{{ post.imgalt }}">
+				{% endif %}
+                    <img class="img-fluid" src="assets/img/services/{{ post.img }}" alt="{{ post.imgalt }}">
+				{% if post.imgurl %}
+					</a>
+				{% endif %}
+                </div>
+            </div>
+        </div>
+        <!-- /.container -->
+    </div>
+    <!-- /.content-section-a -->
+</section>
+{% else %}
+<!-- Rules Section -->
+<section id="{{ post.ancre}}">
+    <div class="content-section-b">
+        <div class="container">
+            <div class="row aligned-row flex-column-reverse flex-md-row">
+			    <div class="col-lg-5 col-md-6 my-auto">
+                {% if post.imgurl %}
+					<a href="{{ post.imgurl }}" title="{{ post.imgtitle }}" alt="{{ post.imgalt }}">
+				{% endif %}
+                    <img class="img-fluid" src="assets/img/services/{{ post.img }}" alt="{{ post.imgalt }}">
+				{% if post.imgurl %}
+					</a>
+				{% endif %}
+                </div>
+                <div class="col-lg-7 col-md-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">{{ post.title }}</h2>
+                    <div class="lead">
+					<!-- Start content -->
+					{{ post.content }}
+					<!-- End content -->
+					</div>
+                </div>
+              </div>
+        </div>
+		<!-- /.container -->
+    </div>
+  <!-- /.content-section-b -->
+</section>
+{% endif %}
+{% endfor %}
