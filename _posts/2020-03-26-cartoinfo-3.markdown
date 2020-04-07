@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cette carte est interactive :<br>vous pouvez contribuer !
+title: Cette carte est interactive, vous pouvez contribuer !
 ancre: contribute
 img: excel.png
 imgalt: une capture d'écrann d'un des formulaires d'inscription à la carte

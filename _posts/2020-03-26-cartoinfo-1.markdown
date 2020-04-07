@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cette carte est interactive :<br>vous pouvez contribuer !
+title: Cette carte recense :
 ancre: annuaire
 img: howto.png
 imgalt : Illustration de BelleBouffe
