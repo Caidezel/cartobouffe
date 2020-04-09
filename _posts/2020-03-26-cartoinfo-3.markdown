@@ -8,15 +8,15 @@ imgalt: une capture d'écrann d'un des formulaires d'inscription à la carte
 Producteurs, consommateurs, commerçants : aidez-nous à faire vivre la carte !  Remplissez le bon formulaire et nos bénévoles feront apparaitre le service reférencé sur la carte après un travail de relecture.
 Ajouter une structure qui propose :
 
-<section class="row">
+<div class="row">
 	<div class="mx-auto">
 		<a href="https://bit.ly/cartecovid19_ajouter_achatssurplacel" rel="nofollow norefferer" target="_blank" title="Ajouter un structure qui propose de l'achat sur place" alt="Lien vers le formulaire d'ajout d'une structure qui propose de l'achat sur plac" class="btn btn-primary btncenter btn-sm"><i class="fas fa-hand-point-right"></i>  Achats sur place</a>
 		<a href="https://bit.ly/cartecovid19_ajouter_retirersurplace" rel="nofollow norefferer" target="_blank" title="Ajouter un structure qui propose un système de drive" alt="Lien vers le formulaire d'ajout d'une structure qui propose un système de drive" class="btn btn-primary btncenter btn-sm"><i class="fas fa-hand-point-right"></i>  Retrait sur place (ou drive)</a>
 	</div>
-</section>
-<section class="row">
+</div>
+<div class="row">
 	<div class="mx-auto">
 		<a href="https://bit.ly/cartecovid19_ajouter_livraisonpointrelais" rel="nofollow norefferer" target="_blank" title="Ajouter un structure qui propose de la livraison en point relais" alt="Lien vers le formulaire d'ajout d'une structure qui propose de la livraison en point relais" class="btn btn-primary btncenter btn-sm"><i class="fas fa-hand-point-right"></i>  Livraison en point relais</a>
 		<a href="https://bit.ly/cartecovid19_ajouter_livraisonadomicile" rel="nofollow norefferer" target="_blank" title="Ajouter un structure qui propose de la livraison à domicile" alt="Lien vers le formulaire d'ajout d'une structure qui propose de la livraison à domicile" class="btn btn-primary btncenter btn-sm"><i class="fas fa-hand-point-right"></i>  Livraison à domicile</a>
 	</div>
-</section>
+</div>

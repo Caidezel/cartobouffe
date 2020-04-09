@@ -8,8 +8,8 @@ title: Vous êtes producteurs, maraichers ... ?
 Vous souhaitez apparaitre sur la carte et avez besoin d'aide pour remplir vos informations ?  
 Vous souhaitez corriger des informations concernant votre activité mais ne savez pas comment vous y prendre ? Écrivez-nous.
 
-<section class="row">
+<div class="row">
 	<div class="mx-auto">
 		<a href="mailto:{{ site.email_zerodechetlyon }},{{ site.email }}" rel="nofollow norefferer" target="_blank" title="Écrire à Zéro Déchet Lyon et Bellebouffe" class="btn btn-primary btncenter"><i class="far fa-envelope"></i> Zéro Déchet Lyon & Bellebouffe</a>
 	</div>
-</section>
+</div>

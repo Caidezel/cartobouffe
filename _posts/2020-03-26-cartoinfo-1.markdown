@@ -2,15 +2,14 @@
 layout: default
 title: "Cette carte recense :"
 ancre: annuaire
-img: howto.png
-imgalt : Illustration de BelleBouffe
+video: true
 ---
   - Les marchés alimentaires maintenus par dérogation,
   - Les épiceries locavores/vrac qui maintiennent l'ouverture de leur commerce,
   - Les producteurs locaux qui se sont adaptés et proposent un service de commandes en ligne avec points relais et/ou vente directe, livraison etc...
 
-<section class="row">
+<div class="row">
 	<div class="mx-auto">
-		<a href="http://umap.openstreetmap.fr/fr/map/points-de-vente-produits-locaux_435582?fbclid=IwAR0IxRWS3g7PHz3TPa4M_wq-kZToMQbaUlhHLBVEuhz7w7XIAaHl_0ptQz4#11/45.7831/4.8779" rel="nofollow norefferer" target="_blank" title="Lien vers la carte sur OpenStreetMap" alt="Lien vers la carte sur OpenStreetMappenstreetmap" class="btn btn-primary"><i class="fas fa-hand-point-right"></i> Ouvrir la carte sur OSM</a>
+		<a href="http://umap.openstreetmap.fr/fr/map/points-de-vente-produits-locaux_435582?fbclid=IwAR0IxRWS3g7PHz3TPa4M_wq-kZToMQbaUlhHLBVEuhz7w7XIAaHl_0ptQz4#11/45.7831/4.8779" rel="nofollow norefferer" target="_blank" title="Lien vers la carte sur OpenStreetMap" alt="Lien vers la carte sur OpenStreetMappenstreetmap" class="btn btn-primary btncenter"><i class="fas fa-hand-point-right"></i> Ouvrir la carte sur OSM</a>
 	</div>
-</section>
+</div>

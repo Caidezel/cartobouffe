@@ -17,6 +17,7 @@
 					</div>
                 </div>
                 <div class="col-lg-5 col-md-6 my-auto">
+                {% if post.img %}
 				{% if post.imgurl %}
 					<a href="{{ post.imgurl }}" title="{{ post.imgtitle }}" alt="{{ post.imgalt }}">
 				{% endif %}
@@ -24,6 +25,10 @@
 				{% if post.imgurl %}
 					</a>
 				{% endif %}
+                {% endif %}
+                {% if post.video %}
+                {% include video.html %}
+                {% endif %}
                 </div>
             </div>
         </div>
