@@ -5,6 +5,6 @@ ancre: rules
 img: warning.png
 imgalt: Un zoom sur l'icone où cliquer pour voir les calques de la carte
 ---
-  - Vous pouvez consulter la liste des données en cliquant sur le bouton à gauche représentant des ronds empilés, puis sur “Visualiser les données”: la colonne qui apparaît à droite vous présente les points sur la carte classés par catégories.
-  - Les producteurs et commerces en ligne sans structure physique sont signalés à leur siège social et peuvent parfois être localisés en dehors du territoire. Pour les identifier, faire apparaitre "Commande à distance / Livraison à domicile" seulement.
-  - Pour les "Commande à distance / Livraison à domicile " la zone de livraison peut être différente de l'implantation géographique du siège sociale, prenez le temps de jeter un oeil à la zone couverte.
+  - Vous pouvez consulter la liste des données en cliquant sur le bouton à gauche représentant des ronds empilés, puis sur **“Visualiser les données”**: la colonne qui apparaît à droite vous présente les points sur la carte classés par catégories.
+  - Les producteurs et commerces en ligne sans structure physique sont signalés à leur siège social et peuvent parfois être localisés en dehors du territoire. Pour les identifier, faire apparaitre **"Commande à distance / Livraison à domicile"** seulement.
+  - Pour les **"Commande à distance / Livraison à domicile "** la zone de livraison peut être différente de l'implantation géographique du siège sociale, prenez le temps de jeter un oeil à la zone couverte.
