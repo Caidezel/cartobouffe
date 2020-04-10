@@ -2,8 +2,7 @@
 layout: default
 title: "Cette carte recense :"
 ancre: annuaire
-img: howto.png
-imgalt: Une illustration par BelleBouffe
+video: true
 ---
   - Les marchés alimentaires maintenus par dérogation,
   - Les épiceries locavores/vrac qui maintiennent l'ouverture de leur commerce,
