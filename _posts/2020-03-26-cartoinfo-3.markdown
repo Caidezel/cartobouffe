@@ -10,7 +10,7 @@ Ajouter une structure qui propose :
 
 <div class="row">
 	<div class="mx-auto">
-		<a href="https://bit.ly/cartecovid19_ajouter_achatssurplacel" rel="nofollow norefferer" target="_blank" title="Ajouter un structure qui propose de l'achat sur place" alt="Lien vers le formulaire d'ajout d'une structure qui propose de l'achat sur plac" class="btn btn-primary btncenter btn-sm"><i class="fas fa-hand-point-right"></i>  Achats sur place</a>
+		<a href="https://bit.ly/cartecovid19_ajouter_achatssurplace" rel="nofollow norefferer" target="_blank" title="Ajouter un structure qui propose de l'achat sur place" alt="Lien vers le formulaire d'ajout d'une structure qui propose de l'achat sur place" class="btn btn-primary btncenter btn-sm"><i class="fas fa-hand-point-right"></i>  Achats sur place</a>
 		<a href="https://bit.ly/cartecovid19_ajouter_retirersurplace" rel="nofollow norefferer" target="_blank" title="Ajouter un structure qui propose un système de drive" alt="Lien vers le formulaire d'ajout d'une structure qui propose un système de drive" class="btn btn-primary btncenter btn-sm"><i class="fas fa-hand-point-right"></i>  Retrait sur place (ou drive)</a>
 	</div>
 </div>
