@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Cette carte est interactive, vous pouvez contribuer !
+title: Cette carte est interactive, vous pouvez TOUJOURS contribuer !
 ancre: contribute
 img: excel.png
-imgalt: une capture d'écrann d'un des formulaires d'inscription à la carte
+imgalt: une capture d'écran d'un des formulaires d'inscription à la carte
 ---
-Producteurs, consommateurs, commerçants : aidez-nous à faire vivre la carte !  Remplissez le bon formulaire et nos bénévoles feront apparaitre le service reférencé sur la carte après un travail de relecture.
+Producteurs, consommateurs, commerçants : vous pouvez toujours apparaitre sur la carte !  Remplissez le bon formulaire (les textes peuvent être non actualisés vis à vis de la fin du confinement) et nos bénévoles vous feront apparaitre sur la nouvelle carte en cours de préparation.
+
 Ajouter une structure qui propose :
 
 <div class="row">

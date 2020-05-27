@@ -3,13 +3,13 @@ layout: default
 ancre: producteurs
 img: producteurs.png
 imgalt: "En soutien à nos producteurs"
-title: Vous êtes producteurs, maraichers ... ?
+title: Vous êtes producteurs, maraichers, consommateurs ... ?
 ---
-Vous souhaitez apparaitre sur la carte et avez besoin d'aide pour remplir vos informations ?  
-Vous souhaitez corriger des informations concernant votre activité mais ne savez pas comment vous y prendre ? Écrivez-nous.
-
+Que vous soyez un gourmand, une épicerie, un producteur ou un maraicher, on aimerait recueillir votre témoignage. 
+Racontez-nous en quelques mots ce que vous a permis la carte ou bien votre expérience alimentaire de confinement en nous écrivant :
 <div class="row">
 	<div class="mx-auto">
-		<a href="mailto:{{ site.email_zerodechetlyon }},{{ site.email }}" rel="nofollow norefferer" target="_blank" title="Écrire à Zéro Déchet Lyon et Bellebouffe" class="btn btn-primary btncenter"><i class="far fa-envelope"></i> Zéro Déchet Lyon & Bellebouffe</a>
+		<a href="mailto:{{ site.email }}" rel="nofollow norefferer" target="_blank" title="Écrire à Bellebouffe" class="btn btn-primary btncenter"><i class="far fa-envelope"></i> Bonjour@Bellebouffe.com</a>
 	</div>
+</div>
 </div>
