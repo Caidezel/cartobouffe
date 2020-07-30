@@ -12,4 +12,3 @@ Racontez-nous en quelques mots ce que vous a permis la carte ou bien votre expé
 		<a href="mailto:{{ site.email }}" rel="nofollow norefferer" target="_blank" title="Écrire à Bellebouffe" class="btn btn-primary btncenter"><i class="far fa-envelope"></i> Bonjour@Bellebouffe.com</a>
 	</div>
 </div>
-</div>
