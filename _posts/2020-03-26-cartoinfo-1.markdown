@@ -4,6 +4,7 @@ title: "Cette carte recense :"
 ancre: annuaire
 video: true
 ---
-  - Les marchés alimentaires qui ont été maintenus par dérogation pendant le confinement et le début du déconfinement,
-  - Les épiceries locavores/vrac qui ont maintenu l'ouverture de leur commerce,
+  - Les marchés alimentaires maintenus pendant le confinement,
+  - Les épiceries locavores/vrac qui ont maintiennent l'ouverture de leur commerce,
   - Les producteurs locaux qui se sont adaptés et ont proposé un service de commandes en ligne avec points relais et/ou vente directe, livraison etc...
+  - Les restaurateurs et métiers dee bouches qui maintiennent l'ouverture de leur cuisine et proposent un service de vente à emporter, livraison etc...

@@ -4,10 +4,10 @@
 
 url: https://cartecovid19.bellebouffe.com
 baseurl: ""
-title: Manger local à Lyon durant COVID
+title: Manger local à Lyon durant COVID#2
 email: bonjour@bellebouffe.com
 author: BelleBouffe / Zéro Déchet Lyon
-description: "Le confinement ? C’est fini ! Il y a toujours autant de bonne bouffe locale près de chez vous pour se régaler au quotidien ! BelleBouffe et Zéro Déchet Lyon vous laissent à disposition la carte référençant les maraichers, épiceries, producteurs autour de Lyon et ses alentours restés ouverts pendant le confinement. Nous faisons de notre mieux pour tenir ces informations à jour mais il est possible que certains éléments ne le soient plus car notre énergie est mobilisée pour créer une nouvelle version de cette carte pour qu'elle vous soit toujours utile."
+description: "Le confinement ? C’est reparti ! Suite aux annonces du 28/10/2020 par le gouvernement français d'un nouveau confinement, BelleBouffe et Zéro Déchet Lyon ont décidé de relancer cette carte qui vous a servi durant le confinement du printemps dernier. Notre objectif reste le même : rescenser les producteurs, distributeurs et (c'est nouveau pour cette V2) les restaurateurs qui proposent de la bonne bouffe locale à Lyon et environs pendant le confinement."
 credits: 'Credits: Landing Page est un thème Bootstrap open source et gratuit créé par <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 
@@ -27,7 +27,7 @@ sass:
 #   3rd Party Settings    #
 # ----------------------- #
 
-twitter_sharetext: "Retrouve la carte @BelleBouffe et @ZeroDechetLyon pour manger local à Lyon durant COVID-19"
+twitter_sharetext: "Retrouve la carte @BelleBouffe et @ZeroDechetLyon pour manger local à Lyon durant COVID-19 (mise à jour oct.20"
 iframetitle: Points de vente de produits locaux
 
 twitter_bellebouffe: BelleBouffe
