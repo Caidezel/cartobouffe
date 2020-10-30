@@ -1,12 +1,10 @@
 ---
 layout: default
-title: "Cette carte recense :"
-ancre: annuaire
-video: true
+title: "Quelques règles :"
+ancre: rules
+img: warning.png
+imgalt: Un zoom sur l'icone où cliquer pour voir les calques de la carte
 ---
-  - Les marchés alimentaires maintenus pendant le confinement,
-  - Les épiceries locavores/vrac qui ont maintiennent l'ouverture de leur commerce,
-  - Les producteurs locaux qui se sont adaptés et ont proposé un service de commandes en ligne avec points relais et/ou vente directe, livraison etc...
-  - Les restaurateurs et métiers de bouche qui maintiennent l'ouverture de leur cuisine et proposent un service de vente à emporter, livraison etc...
-  
-  
+  - Vous pouvez consulter la liste des données en cliquant sur le bouton à gauche représentant des ronds empilés, puis sur **“Visualiser les données”**: la colonne qui apparaît à droite vous présente les points sur la carte classés par catégories.
+  - Les producteurs et commerces en ligne sans structure physique sont signalés à leur siège social et peuvent parfois être localisés en dehors du territoire. Pour les identifier, faire apparaitre **"Commande à distance / Livraison à domicile"** seulement.
+  - Pour les **"Commande à distance / Livraison à domicile "** la zone de livraison peut être différente de l'implantation géographique du siège social, prenez le temps de jeter un oeil à la zone couverte.
