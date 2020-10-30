@@ -18,9 +18,3 @@ Ajouter une structure qui propose :
 		<a href="http://bit.ly/cartecovid19_ajouter_restaurants_snack_bar" rel="nofollow norefferer" target="_blank" title="Ajouter une structure qui propose des plats préparés à la livraison à domicile ou a emporter" alt="Lien vers le formulaire d'ajout d'une structure qui propose des plats préparés à la livraison à domicile ou a emporter" class="btn btn-primary btncenter btn-sm"><i class="fas fa-hand-point-right"></i>  Plats préparés en livraison ou retrait sur place : restaurants, snacks, restau-bar</a>
 	</div>
 </div>
-<div class="row">
-	<div class="mx-auto">
-
-		
-	</div>
-</div>
