@@ -22,7 +22,9 @@
                     <img class="img-fluid" src="assets/img/services/{{ post.img }}" alt="{{ post.imgalt }}">
 					</a>
 				{% endif %}
-
+				{% if post.video %}
+				{% include video.html %}
+				{% endif %}
                 </div>
             </div>
         </div>
