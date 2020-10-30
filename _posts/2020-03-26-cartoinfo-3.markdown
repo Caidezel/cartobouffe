@@ -1,26 +1,10 @@
 ---
 layout: default
-title: Cette carte est interactive, vous pouvez TOUJOURS contribuer !
-ancre: contribute
-img: excel.png
-imgalt: une capture d'écran d'un des formulaires d'inscription à la carte
+title: "Quelques règles :"
+ancre: rules
+img: warning.png
+imgalt: Un zoom sur l'icone où cliquer pour voir les calques de la carte
 ---
-Producteurs, consommateurs, commerçants, restaurateurs : vous pouvez toujours apparaitre sur la carte !  Remplissez le bon formulaire et nos bénévoles vous feront apparaitre sur la mise a jour de la carte pour le confinement d'octobre, novembre 2020 :
-
-Ajouter une structure qui propose :
-
-<div class="row">
-	<div class="mx-auto">
-		<a href="https://bit.ly/cartecovid19_ajouter_achatssurplace" rel="nofollow norefferer" target="_blank" title="Ajouter une structure qui propose de l'achat sur place" alt="Lien vers le formulaire d'ajout d'une structure qui propose de l'achat sur place" class="btn btn-primary btncenter btn-sm"><i class="fas fa-hand-point-right"></i> Alimentation diverse en achats sur place</a>
-		<a href="https://bit.ly/cartecovid19_ajouter_retirersurplace" rel="nofollow norefferer" target="_blank" title="Ajouter une structure qui propose un système de drive" alt="Lien vers le formulaire d'ajout d'une structure qui propose un système de drive" class="btn btn-primary btncenter btn-sm"><i class="fas fa-hand-point-right"></i> Alimentation diverse en retrait sur place (ou drive)</a>
-		<a href="https://bit.ly/cartecovid19_ajouter_livraisonpointrelais" rel="nofollow norefferer" target="_blank" title="Ajouter une structure qui propose de la livraison en point relais" alt="Lien vers le formulaire d'ajout d'une structure qui propose de la livraison en point relais" class="btn btn-primary btncenter btn-sm"><i class="fas fa-hand-point-right"></i> Alimentation diverse en livraison en point relais</a>
-		<a href="https://bit.ly/cartecovid19_ajouter_livraisonadomicile" rel="nofollow norefferer" target="_blank" title="Ajouter une structure qui propose de la livraison à domicile" alt="Lien vers le formulaire d'ajout d'une structure qui propose de la livraison à domicile" class="btn btn-primary btncenter btn-sm"><i class="fas fa-hand-point-right"></i> Alimentation diverse en livraison à domicile</a>
-		<a href="http://bit.ly/cartecovid19_ajouter_restaurants_snack_bar" rel="nofollow norefferer" target="_blank" title="Ajouter une structure qui propose des plats préparés à la livraison à domicile ou a emporter" alt="Lien vers le formulaire d'ajout d'une structure qui propose des plats préparés à la livraison à domicile ou a emporter" class="btn btn-primary btncenter btn-sm"><i class="fas fa-hand-point-right"></i>  Plats préparés en livraison ou retrait sur place : restaurants, snacks, restau-bar</a>
-	</div>
-</div>
-<div class="row">
-	<div class="mx-auto">
-
-		
-	</div>
-</div>
+  - Vous pouvez consulter la liste des données en cliquant sur le bouton à gauche représentant des ronds empilés, puis sur **“Visualiser les données”**: la colonne qui apparaît à droite vous présente les points sur la carte classés par catégories.
+  - Les producteurs et commerces en ligne sans structure physique sont signalés à leur siège social et peuvent parfois être localisés en dehors du territoire. Pour les identifier, faire apparaitre **"Commande à distance / Livraison à domicile"** seulement.
+  - Pour les **"Commande à distance / Livraison à domicile "** la zone de livraison peut être différente de l'implantation géographique du siège social, prenez le temps de jeter un oeil à la zone couverte.

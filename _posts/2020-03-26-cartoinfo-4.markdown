@@ -1,12 +1,12 @@
 ---
 layout: default
+title: "Vous êtes producteurs, maraichers, consommateurs, restaurateurs... ?"
 ancre: producteurs
 img: producteurs.png
 imgalt: "En soutien à nos producteurs"
-title: Vous êtes producteurs, maraichers, consommateurs, restaurateurs... ?
 ---
-Que vous soyez un gourmand, une épicerie, un producteur ou un maraicher, voir même un restaurateur, vous pouvez apparaitre sur notre carte pour ce second confinement. (On espère que cela vous aidera)  
-Vous avez une question ? Vous avez reperé une erreur sur des informations vous concernant ? Vous ne souhaitez plus apparaitre sur la carte ?
+Que vous soyez un gourmand, une épicerie, un producteur ou un maraicher, voire même un restaurateur, vous pouvez apparaitre sur notre carte pour ce second confinement. (On espère que cela vous aidera)  
+Vous avez une question ? Vous avez repéré une erreur sur des informations vous concernant ? Vous ne souhaitez plus apparaitre sur la carte ?
 
 <div class="row">
 	<div class="mx-auto">
