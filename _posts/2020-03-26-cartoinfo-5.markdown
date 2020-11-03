@@ -1,13 +1,13 @@
 ---
 layout: default
-ancre: 
-img: tellus.png
-imgalt: "Racontez-nous !"
-title: Racontez-nous !
+ancre: nousaider
+title: Vous aimez la carte ?
+don: true
 ---
-On aimerait recueillir vos témoignages et vos expériences. Racontez-nous en quelques mots ce que vous a permis la carte ou bien votre expérience alimentaire de confinement en nous écrivant :
-<div class="row">
-	<div class="mx-auto">
-		<a href="mailto:{{ site.email }}" rel="nofollow norefferer" target="_blank" title="Écrire à Bellebouffe" class="btn btn-primary btncenter"><i class="far fa-envelope"></i> Bonjour@Bellebouffe.com</a>
-	</div>
-</div>
+Pour arriver à un tel résultat, une équipe communique et met à jour votre carte de manière à :  
+
+  👉 ce qu'elle soit connue du plus grand nombre qu'ils et elles soient producteurs, distributeurs, restaurateurs ou mangeurs !  
+  👉 permettre à tous et toutes de contribuer en nous faisant parvenir les infos utiles à intégrer sur la carte.  
+  
+  N'hésitez pas à soutenir notre association derrière l'opération ! Vos dons sont bienvenus !
+  Encore merci pour vos contributions 🙏
