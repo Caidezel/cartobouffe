@@ -4,3 +4,4 @@ _site
 .jekyll-metadata
 .jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910
 .jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/1d/23c93e7a132d8f7ed092a0cb9b361061c9d89caeabbca14d65a7d5eb038cdd
+.DS_Store
