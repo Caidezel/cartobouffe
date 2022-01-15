@@ -4,7 +4,7 @@
 
 url: https://mangerlocal-lyon.bellebouffe.com
 baseurl: ""
-title: Manger local à sur la Métropole de Lyon
+title: Manger local sur la Métropole de Lyon
 email: bonjour@bellebouffe.com
 author: BelleBouffe / Zéro Déchet Lyon
 description: "La carte reste disponible envers et contre tout. Depuis le 1er confinement BelleBouffe et Zéro Déchet Lyon ont lancé une carte participative. Et malgré les confinements et déconfinements, notre objectif reste le même : recenser les producteurs, distributeurs et les restaurateurs qui proposent de la bonne bouffe locale à Lyon et environs."
@@ -27,7 +27,9 @@ sass:
 #   3rd Party Settings    #
 # ----------------------- #
 
-twitter_sharetext: "Retrouve la carte @BelleBouffe et @ZeroDechetLyon pour manger local à Lyon durant COVID-19."
+google_analytics: G-QS3EV8HQS2
+
+twitter_sharetext: "Retrouve la carte @BelleBouffe et @ZeroDechetLyon pour manger local sur la métropole de Lyon."
 iframetitle: Points de vente de produits locaux
 
 twitter_bellebouffe: BelleBouffe

@@ -1,34 +1,58 @@
-<!-- jQuery Version 3.4.1 -->
-<script src="/assets/js/jquery-3.4.1.min.js"></script>
-
-<!-- Plugin JavaScript -->
-    <script src="/assets/js/jquery.easing.min.js""></script>
-	<script src="/assets/js/jquery.easing.compatibility.min.js"></script>
-	<script src="https://unpkg.com/@popperjs/core@2"></script>
-
-<!-- Bootstrap Core JavaScript -->
-<script src="/assets/js/bootstrap.min.js"></script>
-
-<!-- Custom Theme JavaScript -->
-<script src="/assets/js/landing-page.js"></script>
-
-<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" data-cfasync="false"></script>
 <script>
-window.cookieconsent.initialise({
-  "palette": {
-    "popup": {
-      "background": "#edeff5",
-      "text": "#838391"
+window.addEventListener('load', function(){
+  window.cookieconsent.initialise({
+   revokeBtn: "<div class='cc-revoke'></div>",
+   type: "opt-in",
+   theme: "classic",
+   palette: {
+       popup: {
+           background: "#eff",
+           text: "#679"
+        },
+       button: {
+           background: "#5de",
+           text: "#fff"
+        }
     },
-    "button": {
-      "background": "#4b81e8"
+   content: {
+       message: "Nous souhaitons utiliser des cookies et des scripts tiers pour améliorer la fonctionnalité de ce site Web.",
+       link: "Plus d'infos",
+       allow: "Accepter",
+	   deny: "Non merci,",
+       href: "https://mangerlocal-lyon.bellebouffe.com/privacy"
+    },
+    onInitialise: function(status) {
+      if(status == cookieconsent.status.allow) myScripts();
+    },
+    onStatusChange: function(status) {
+      if (this.hasConsented()) myScripts();
     }
-  },
-  "content": {
-    "message": "Nous souhaitons utiliser des cookies et des scripts tiers pour améliorer la fonctionnalité de ce site Web.",
-    "dismiss": "Accepter",
-    "link": "Plus d'infos",
-    "href": "https://cartecovid19.bellebouffe.com/privacy"
-  }
+  })
 });
+
+function myScripts() {
+
+/*This function will load script and call the callback once the script has loaded*/
+function loadScriptAsync(scriptSrc, callback) {
+    if (typeof callback !== 'function') {
+        throw new Error('Not a valid callback for async script load');
+    }
+    var script = document.createElement('script');
+    script.onload = callback;
+    script.src = scriptSrc;
+    document.head.appendChild(script);
+}
+
+/* This is the part where you call the above defined function and "call back" your code which gets executed after the script has loaded */
+loadScriptAsync('https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}', function(){
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.google_analytics }}', { 'anonymize_ip': true });
+})
+
+
+}
 </script>
